@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325663533693",
+    "project_id": "cahtyyapp",
+    "storage_bucket": "cahtyyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325663533693:android:91b17c2b898d8216e05f14",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1G71O-aKhcJ28ZoLASNwP4MBWWWFTqXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
